@@ -1,0 +1,6 @@
+1. Start the ServerMain
+2. Start LoginWindow
+3. Log in with name "filip" and password "filip" (It is hardcoded)
+4. Start UserListPane (It will login as a "guest" automatically, the guest shows up on filips panel)
+5. With Filip's panel, choose to chat with guest, and with guests panel, choose to chat with Filip
+6. Chat.
